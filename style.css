@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Gluten:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+body{
+    background-color: cornsilk;
+}
+.links{
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+}
+img{
+    width: 360px;
+    height: 360px;
+    border-radius: 100%;
+}
+.arsen{
+    font-size: 75px;
+    font-family: 'Dancing Script', cursive;
+}
+.old{
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+}
+.hobby{
+    color: black;
+    font-family: 'Anton', sans-serif;
+}
+.link{
+    font-family: 'Bebas Neue', cursive;
+    color: black;
+}
